@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	background-image: url(http://cliparts.co/cliparts/8cG/EdL/8cGEdLxXi.jpg);
+
+}
+
+.jumbotron {
+	background: 
+=======
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	background-image: url(http://cliparts.co/cliparts/8cG/EdL/8cGEdLxXi.jpg);
+
+}
+
+.jumbotron {
+	opacity: 80%;
+>>>>>>> 2fe6c32834db6ae92c7a87e2f12c2a2b700218ed
+}
